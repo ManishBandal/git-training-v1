@@ -1,11 +1,8 @@
-public class Ex2DFunction {
-    public static void main(String[] args) {
-        int number = 5; // Example input
-        int result = twice(number);
-        System.out.println("Twice of " + number + " is " + result);
-    }
 
-    public static int twice(int n) {
-        return n * 2;
+public class Ex2DFunction {
+    // Main method to run the program
+    public static void main(String[] args) {
+       System.out.println("Hello, World!"); // Print a greeting message
+       
     }
 }
