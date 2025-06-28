@@ -5,6 +5,7 @@ public class ex3 {
         System.out.println("made change from techdev branch");
         System.out.println("this is a new line for a commit");
         int a =700;
+        int b =500;
         }
     
 }
